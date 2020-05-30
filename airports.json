@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Brussels Airport Zaventem",
+        "location": "Leopoldlaan, 1930 Zaventem",
+        "code": "BRU"
+    },
+    {
+        "name": "Charles de Gaulle Airport",
+        "location": "95700 Roissy-en-France, France",
+        "code": "CDG"
+    },
+    {
+        "name": "Amsterdam Airport Schiphol",
+        "location": "Evert van de Beekstraat 202, 1118 CP Schiphol, Netherlands",
+        "code": "AMS"
+    },
+    {
+        "name": "Rome Fiumicino Airport",
+        "location": "Via dell' Aeroporto di Fiumicino, 00054 Fiumicino RM, Italy",
+        "code": "FCO"
+    },
+    {
+        "name": "Duesseldorf International Airport",
+        "location": "Flughafenstraße 105, 40474 Düsseldorf, Germany",
+        "code": "DUS"
+    },
+    {
+        "name": "Copenhagen Kastrup Airport",
+        "location": "Lufthavnsboulevarden 6, 2770 Kastrup, Denmark",
+        "code": "CPH"
+    },
+    {
+        "name": "London Heathrow Airport",
+        "location": "Longford TW6, United Kingdom",
+        "code": "LHR"
+    },
+    {
+        "name": "Munich International Airport",
+        "location": "Nordallee 25, 85356 Freising, Germany",
+        "code": "MUC"
+    },
+    {
+        "name": "Zurich Airport",
+        "location": "Bimenzältenstrasse 87, 8058 Zürich-Flughafen, Switzerland",
+        "code": "ZRH"
+    },
+    {
+        "name": "Barcelona Airport",
+        "location": "Carrer Felip Diaz Sandino, 2, 08820 Sant Boi de Llobregat, Barcelona, Spain",
+        "code": "BCN"
+    },
+    {
+        "name": "Vienna Airport",
+        "location": "Objekt 420, 1300 Wien-Flughafen, Austria",
+        "code": "VIE"
+    }
+]
